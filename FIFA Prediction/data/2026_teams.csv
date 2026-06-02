@@ -1,0 +1,49 @@
+group,team,rank_in_group,fifa_ranking
+A,USA,1,13
+A,Panama,2,39
+A,Honduras,3,42
+A,Morocco,4,17
+B,Argentina,1,1
+B,Chile,2,22
+B,Peru,3,30
+B,Australia,4,33
+C,Mexico,1,14
+C,Jamaica,2,43
+C,Venezuela,3,28
+C,New Zealand,4,45
+D,France,1,2
+D,Belgium,2,8
+D,Croatia,3,11
+D,Thailand,4,46
+E,Spain,1,5
+E,Portugal,2,6
+E,Uruguay,3,12
+E,Algeria,4,37
+F,England,1,3
+F,Netherlands,2,7
+F,Senegal,3,16
+F,Georgia,4,40
+G,Brazil,1,4
+G,Colombia,2,15
+G,Ecuador,3,27
+G,Cameroon,4,32
+H,Germany,1,9
+H,Hungary,2,26
+H,Japan,3,18
+H,South Africa,4,44
+I,Italy,1,10
+I,Sweden,2,29
+I,Serbia,3,21
+I,DR Congo,4,41
+J,Canada,1,36
+J,Trinidad and Tobago,2,47
+J,Cuba,3,48
+J,Slovakia,4,34
+K,South Korea,1,19
+K,Iran,2,25
+K,Uzbekistan,3,38
+K,Ivory Coast,4,31
+L,Poland,1,20
+L,Austria,2,23
+L,Ukraine,3,24
+L,Nigeria,4,35
